@@ -1,0 +1,46 @@
+h1 {
+    color: red  ;
+    font-family: sans-serif;
+    size: 22;
+    font-weight: bold;
+    font-style: italic;
+}
+/*vedant suman*/
+h2 {
+    color: black;
+    text-align: center;
+    font-family: verdana;
+    font-weight:bold;
+  }
+
+p {
+    color: black;
+    font-family: sans-serif;
+    size: 12;
+    font-weight: bold;
+    text-align: justify;
+}
+
+li {
+    color: red;
+    size: 10;
+    text-align: left;
+    font-style: italic;
+    list-style-type: disc;
+}
+
+table {
+    background-color: grey;
+    outline-color: black;
+    outline-width: 4px;
+    border-collapse: collapse;
+    border-color: lightblue;
+    border-width: 2px;
+    cell-padding: 3px;
+    border-style: solid;
+}
+
+body {
+    background-color: lightblue;
+}
+/*vedant suman*/
