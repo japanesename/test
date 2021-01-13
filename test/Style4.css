@@ -38,6 +38,8 @@ table {
     border-width: 2px;
     cell-padding: 3px;
     border-style: solid;
+width: 500px;
+height: 500px
 }
 
 body {
